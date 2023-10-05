@@ -1,0 +1,30 @@
+ls  
+	- l
+	- al 
+cd 
+	-
+	..
+	.
+	(chemin d'un file)
+cat (file)
+mkdir (dossiers)
+rm (file)
+mv(file) (file_deplacer)
+cp (file) (file_de_copy)
+nano (file)
+gcc (file.extension) -o (file)
+./(file)
+man (commande)
+echo (phrase)
+sudo apt-get update 
+chmod (autorisation) (file)
+touch (file)
+head -n (nbr) (file)
+find (file)
+exit 
+ping (device)
+hostname 
+	- l
+wget (liens)
+zip [dossiers] [file,[file]..]
+unzip (dossiers zipper)
